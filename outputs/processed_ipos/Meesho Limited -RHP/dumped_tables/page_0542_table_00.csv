@@ -1,0 +1,15 @@
+,Original,,Revised classification,Accounting treatment
+,classification,,,
+Amortised cost,,,FVTPL,"Fair value is measured at reclassification date.
+Difference between previous amortized cost and fair
+value is recognised in profit or loss."
+FVTPL,,,Amortised Cost,"Fair value at reclassification date becomes its new
+gross carrying amount. EIR is calculated based on
+the new gross carrying amount."
+Amortised cost,,,FVTOCI,"Fair value is measured at reclassification date.
+Difference between previous amortised cost and fair
+value is recognised in OCI. No change in EIR due to
+reclassification."
+FVTOCI,,,Amortised cost,"Fair value at reclassification date becomes its new
+amortised cost carrying amount. However,
+cumulative gain or loss in OCI is adjusted against"

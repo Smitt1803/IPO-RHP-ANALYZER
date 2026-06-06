@@ -1,0 +1,9 @@
+Inputs into the model,Option series,,,
+,Scheme 1,Scheme 2,"Scheme 3
+Category A","Scheme 3
+Category B"
+Share Price (range),200 to 525,575 to 725,"863 to 1,226","863 to 1,226"
+Exercise Price,1,1,1,1
+Expected Volatility,-,-,-,-
+Option life (exercise period post vesting),10 years,10 years,10 years,10 years
+Risk-free interest rate,6.58%,,,

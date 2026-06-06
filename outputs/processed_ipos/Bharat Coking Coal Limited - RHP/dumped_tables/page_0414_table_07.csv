@@ -1,0 +1,15 @@
+"Sl.
+No.",Particulars,"As at
+March 31, 2025","As at
+March 31, 2024","As at
+March 31, 2023"
+,"DBO on base assumptions as at March
+31","3 2,018.10","32,911.50","32,166.20"
+A,Discount Rate,,,
+,Discount Rate as at March 31,6.60%,7.00%,7.30%
+1,"EffectonDBOdueto0.5%increasein
+Discount Rate",(987.70),(991.10),(960.80)
+,Percentage Impact,-3%,-3%,-3%
+2,"EffectonDBOdueto0.5%decreasein
+Discount Rate","1,052.70","1,054.30","1,020.00"
+,Percentage Impact,3%,3%,3%

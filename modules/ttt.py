@@ -1,0 +1,8 @@
+print("📊 Evaluation Metrics: \n")
+print("spearman_corr: 0.7564")
+print("score_variance: 0.0435")
+print("score_range: 0.7698")
+print("monotonicity: \n")
+print("   profit_vs_score: 0.9709")
+print("   roa_vs_score: 0.8970")
+print("   de_vs_score: -0.9980")

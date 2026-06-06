@@ -1,0 +1,26 @@
+,,Designated,,,,,+/- % change in,,+/- % change in
+,,,,,,,,+/- % change in,
+,,Stock,,,,,"closing price,",,closing
+,,,,,,,,"closing price, [+/-",
+,,Exchange,,,,,[+/- % change,,"price, [+/- %"
+,,,,,,Opening price,,% change in,
+Sr.,,,Issue size,Issue,,,in closing,,change in
+,Issue name,,,,Listing date,on listing date,,closing,
+No.,,,(₹ millions),price (₹),,,benchmark]-,,closing
+,,,,,,(in ₹),,benchmark]- 90th,
+,,,,,,,30th,,benchmark]-
+,,,,,,,,calendar days,
+,,,,,,,calendar days,,180th calendar
+,,,,,,,,from listing,
+,,,,,,,from listing,,days from listing
+1,Midwest Ltd##,NSE,"4,510.00",1065.00,"October 24, 2025",1165.00,Not applicable,Not applicable,Not applicable
+2,"Canara HSBC Life
+Insurance Company
+Ltd$$",NSE,"25,159.50",106.00,"October 17, 2025",106.00,Not applicable,Not applicable,Not applicable
+3,"Jain Resource
+Recycling Ltd",NSE,"12,500.00",232.00,"October 01, 2025",265.05,Not applicable,Not applicable,Not applicable
+4,"Epack Prefab
+Technologies Ltd",NSE,"5,040.00",204.00,"October 01, 2025",183.85,Not applicable,Not applicable,Not applicable
+5,"Jaro Institute of
+Technology",NSE,"4,500.00",890.00,"September 30,
+2025",890.00,Not applicable,Not applicable,Not applicable

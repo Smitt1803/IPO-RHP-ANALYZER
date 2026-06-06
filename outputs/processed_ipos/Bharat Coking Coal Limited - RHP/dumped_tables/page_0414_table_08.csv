@@ -1,0 +1,12 @@
+B,Salary Escalation Rate,,,
+,Salary Escalation Rate as at March 31,"Executives : 9%
+Non-Executives :
+6.25%","Executives : 9%
+Non-Executives : 6.25%","Executives : 9%
+Non-Executives : 6.25%"
+1,"EffectonDBOdueto0.5%increasein
+Salary Escalation Rate",255.60,251.80,348.70
+,Percentage Impact,1%,1%,1%
+2,"EffectonDBOdueto0.5%decreasein
+Salary Escalation Rate",(274.00),(267.60),(374.70)
+,Percentage Impact,-1%,-1%,-1%

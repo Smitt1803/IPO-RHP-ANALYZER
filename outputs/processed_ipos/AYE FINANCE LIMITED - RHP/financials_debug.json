@@ -1,0 +1,59 @@
+{
+  "pdf": "AYE FINANCE LIMITED - RHP.pdf",
+  "focus_pages": [
+    417,
+    418,
+    419,
+    420,
+    421,
+    422,
+    423,
+    424,
+    425,
+    426,
+    427,
+    428,
+    429,
+    430,
+    431,
+    432,
+    433,
+    434,
+    435,
+    436,
+    437
+  ],
+  "candidate_files": [
+    "E:\\404found\\Projects\\PBL Final\\IPO_Automation_System\\outputs\\processed_ipos\\AYE FINANCE LIMITED - RHP\\stitched_tables\\stitched_group_01.csv",
+    "E:\\404found\\Projects\\PBL Final\\IPO_Automation_System\\outputs\\processed_ipos\\AYE FINANCE LIMITED - RHP\\stitched_tables\\stitched_group_06.csv",
+    "E:\\404found\\Projects\\PBL Final\\IPO_Automation_System\\outputs\\processed_ipos\\AYE FINANCE LIMITED - RHP\\stitched_tables\\stitched_group_10.csv"
+  ],
+  "hits_total": 12,
+  "chosen": {
+    "profit:2025": {
+      "metric": "profit",
+      "year": 2025,
+      "value": 30.0,
+      "file": "E:\\404found\\Projects\\PBL Final\\IPO_Automation_System\\outputs\\processed_ipos\\AYE FINANCE LIMITED - RHP\\stitched_tables\\stitched_group_01.csv",
+      "row_label": "Particulars",
+      "score": 1.1833333333333333
+    },
+    "profit:2024": {
+      "metric": "profit",
+      "year": 2024,
+      "value": null,
+      "file": "E:\\404found\\Projects\\PBL Final\\IPO_Automation_System\\outputs\\processed_ipos\\AYE FINANCE LIMITED - RHP\\stitched_tables\\stitched_group_06.csv",
+      "row_label": "Particulars",
+      "score": 1.15
+    },
+    "profit:2023": {
+      "metric": "profit",
+      "year": 2023,
+      "value": null,
+      "file": "E:\\404found\\Projects\\PBL Final\\IPO_Automation_System\\outputs\\processed_ipos\\AYE FINANCE LIMITED - RHP\\stitched_tables\\stitched_group_06.csv",
+      "row_label": "Particulars",
+      "score": 1.15
+    }
+  },
+  "liabilities_fallback_used": false
+}
