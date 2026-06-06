@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Generated Outputs
+outputs/
+
+# Input PDFs
+rhp_inputs/
+
+# Jupyter
+.ipynb_checkpoints/
