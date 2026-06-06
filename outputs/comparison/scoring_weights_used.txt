@@ -1,3 +1,0 @@
-Used columns: ['NetProfitMargin_avg', 'ROA_avg', 'DebtEquityRatio_avg', 'RevenueGrowth_avg', 'ProfitGrowth_avg']
-Weights: Margin=0.3, ROA=0.25, RevenueGrowth=0.15, ProfitGrowth=0.1, DebtEquity=-0.2
-Outlier clipping: 5th-95th percentile
